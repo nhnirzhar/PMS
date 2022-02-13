@@ -1,0 +1,15 @@
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\bin\Debug\PatientManagement.exe.config
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\bin\Debug\PatientManagement.exe
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\bin\Debug\PatientManagement.pdb
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.AssemblyReference.cache
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Form1.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Properties.Resources.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.GenerateResource.cache
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.CoreCompileInputs.cache
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.exe
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.pdb
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Home.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.DoctorForm.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.DiagnosisForm.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.PatientForm.resources
+F:\5. Autumn 2021\HMS\PatientManagement\PatientManagement\obj\Debug\PatientManagement.StartingForm.resources
